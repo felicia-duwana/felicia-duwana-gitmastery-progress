@@ -149,5 +149,14 @@
       "Missing question Which are the new values in staged files? in answers file."
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "sensors-diff",
+    "started_at": 1787134978.153763,
+    "completed_at": 1787134979.44233,
+    "comments": [
+      "Great work comparing commits in git history!"
+    ],
+    "status": "Completed"
   }
 ]
